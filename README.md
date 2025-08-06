@@ -12,7 +12,7 @@ Ehust_app is a React Native mobile application built with Expo.
 
 1. Clone the repository:
 ```bash
-git clone [<repository-url>](https://github.com/LuongManhTu/Ehust_app.git)
+git clone https://github.com/LuongManhTu/Ehust_app.git
 cd Ehust_app
 ```
 
@@ -67,4 +67,5 @@ yarn web
 - `/components` - React components
 - `/assets` - Images, fonts, and other static assets
 - `/redux` - Redux store configuration and slices
+
 
